@@ -1,2 +1,2 @@
 # fun
-for beginner in python programming 
+Projects ideas and implimentation for python beginners. 
