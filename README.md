@@ -43,14 +43,12 @@ this repo is inspired from this article https://techvidvan.com/tutorials/python-
 <summary>Table of Contents</summary>
 
 - [About](#about)
-  - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Contributing](#contributing)
+- [Installation](#installation)
+- [Alarm app](#usage)
+- [Desktop Notifier App](#roadmap)
+- [Guessing Game](#support)
+- [Translator app](#contributing)
 - [Security](#security)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -62,36 +60,37 @@ this repo is inspired from this article https://techvidvan.com/tutorials/python-
 ## About
 
 > **[?]**
-> Provide general information about your project here.
-> What problem does it (intend to) solve?
-> What is the purpose of your project?
-> Why did you undertake it?
-> You don't have to answer all the questions -- just the ones relevant to your project.
+> This is a fun projects for beginners to get hands on programming & problem solving.
+> Here is a plenty of ideas can excercise the basics of python.
+> This repo aims to give beginners the confidence to build stuff & grasp full understanding of the python language.
 
 
 
 ### Built With
 
-> **[?]**
-> Please provide the technologies that are used in the project.
+> **[Aissa Elmehdi Nouacer]**
+> python
+> notify2
+> googletrans
+> tkinter
 
 ## Getting Started
 
 ### Prerequisites
 
 > **[?]**
-> What are the project requirements/dependencies?
+> basic understanding of python syntax.
 
 ### Installation
 
 > **[?]**
-> Describe how to install and get started with the project.
+> it's Not about installation but if you want to try out this repo, you need just pipenv shell (new virtualenv) and pip install -r requirements.txt or pipenv install -r requirements.txt
 
 ## Usage
 
 > **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+> You can used this apps for learnning.
+> You can also use this apps as plugins in your own apps.
 
 ## Roadmap
 
@@ -104,21 +103,10 @@ See the [open issues](https://github.com/AissaNouacer/fun/issues) for a list of 
 ## Support
 
 > **[?]**
-> Provide additional ways to contact the project maintainer/maintainers.
-
-Reach out to the maintainer at one of the following places:
 
 - [GitHub issues](https://github.com/AissaNouacer/fun/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - Contact options listed on [this GitHub profile](https://github.com/AissaNouacer)
-
-
-## Contributing
-
-First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
-
-
-Please read [our contribution guidelines](docs/CONTRIBUTING.md), and thank you for being involved!
-
+- DM me [Insta](@aissaprogramming)
 
 ## Security
 
@@ -132,10 +120,4 @@ _For more information and to report security issues, please refer to our [securi
 This project is licensed under the **MIT license**.
 
 See [LICENSE](LICENSE) for more information.
-
-## Acknowledgements
-
-> **[?]**
-> If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
 >>>>>>> aef52a4 (change the readme)
