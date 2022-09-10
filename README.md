@@ -1,13 +1,8 @@
 <<<<<<< HEAD
 # fun
-Projects ideas for python beginners. 
+Projects ideas for python beginners.
 this repo is inspired from this article https://techvidvan.com/tutorials/python-projects/
 
-# List of the projects
-1- Alarm (simple tk design, no sound effect you can add it with ease).
-2- Simple Nofication desktop app (use it as plugin in your apps).
-3- Guessing Game (simple and funny lol)
-4- Simple Tkinter GUI Translator app (using googletrans api) 
 =======
 <h1 align="center">
   <a href="https://github.com/AissaNouacer/fun">
@@ -59,7 +54,7 @@ this repo is inspired from this article https://techvidvan.com/tutorials/python-
 
 ## About
 
-> **[?]**
+> **[Fun Python Projects]**
 > This is a fun projects for beginners to get hands on programming & problem solving.
 > Here is a plenty of ideas can excercise the basics of python.
 > This repo aims to give beginners the confidence to build stuff & grasp full understanding of the python language.
@@ -68,7 +63,7 @@ this repo is inspired from this article https://techvidvan.com/tutorials/python-
 
 ### Built With
 
-> **[Aissa Elmehdi Nouacer]**
+> **[Python]**
 > python
 > notify2
 > googletrans
@@ -78,17 +73,17 @@ this repo is inspired from this article https://techvidvan.com/tutorials/python-
 
 ### Prerequisites
 
-> **[?]**
+> **[Python]**
 > basic understanding of python syntax.
 
 ### Installation
 
-> **[?]**
+> **[pip or pipenv]**
 > it's Not about installation but if you want to try out this repo, you need just pipenv shell (new virtualenv) and pip install -r requirements.txt or pipenv install -r requirements.txt
 
 ## Usage
 
-> **[?]**
+> **[Apps]**
 > You can used this apps for learnning.
 > You can also use this apps as plugins in your own apps.
 
@@ -102,7 +97,7 @@ See the [open issues](https://github.com/AissaNouacer/fun/issues) for a list of 
 
 ## Support
 
-> **[?]**
+> **[Aissa Nouacer]**
 
 - [GitHub issues](https://github.com/AissaNouacer/fun/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - Contact options listed on [this GitHub profile](https://github.com/AissaNouacer)
