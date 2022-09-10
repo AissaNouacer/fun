@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fun
 Projects ideas for python beginners.
 this repo is inspired from this article https://techvidvan.com/tutorials/python-projects/
@@ -101,7 +100,7 @@ See the [open issues](https://github.com/AissaNouacer/fun/issues) for a list of 
 
 - [GitHub issues](https://github.com/AissaNouacer/fun/issues/new?assignees=&labels=question&template=04_SUPPORT_QUESTION.md&title=support%3A+)
 - Contact options listed on [this GitHub profile](https://github.com/AissaNouacer)
-- DM me [Insta](@aissaprogramming)
+- DM me [Insta](https://www.instagram.com/aissaprogramming/)
 
 ## Security
 
@@ -115,4 +114,3 @@ _For more information and to report security issues, please refer to our [securi
 This project is licensed under the **MIT license**.
 
 See [LICENSE](LICENSE) for more information.
->>>>>>> aef52a4 (change the readme)
